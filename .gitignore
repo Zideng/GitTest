@@ -37,3 +37,4 @@ bower.json
 #ignore mac system file
 .DS_Store
 
+file_to_ignore.rb
